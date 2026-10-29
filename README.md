@@ -1,6 +1,6 @@
 <div align="center">
 
-![SekoupKiqs — Web Developer](assets/banner.svg)
+![SekoupKiqs — Web Developer](https://raw.githubusercontent.com/SekoupKiqs/SekoupKiqs/main/assets/banner.svg)
 
 <br>
 
